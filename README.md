@@ -1,7 +1,6 @@
 <h1 align="center"> 💚 Hi, I'm Jinkyung Kim 💚 </h1>
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
- <a href="http://3.36.51.236/"> <strong>📍 Jinkyung's Personal Project "Class101 📝"</strong> </a> 
  <br>
  <a href="http://13.209.12.239:8082/"> <strong>📍 Jinkyung's Team Project "MATZIP 🍕"</strong> </a> 
  <br>
